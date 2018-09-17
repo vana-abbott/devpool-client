@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dev-Pool/DevPool.git"
+    "url": "git+https://github.com/vana-abbott/devpool-server.git"
   },
   "keywords": [
     "web",
@@ -16,10 +17,6 @@
   ],
   "author": "devpool team",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Dev-Pool/DevPool/issues"
-  },
-  "homepage": "https://github.com/Dev-Pool/DevPool#readme",
   "dependencies": {
     "express": "^4.16.3"
   }
