@@ -1,0 +1,26 @@
+{
+  "name": "devpool-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-Pool/DevPool.git"
+  },
+  "keywords": [
+    "web",
+    "app"
+  ],
+  "author": "devpool team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dev-Pool/DevPool/issues"
+  },
+  "homepage": "https://github.com/Dev-Pool/DevPool#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
